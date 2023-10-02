@@ -9,6 +9,7 @@ import Qualification from './components/Qualification/Qualification'
 // import Testimonials from './components/Testimonials/Testimonials'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
+// import Scrollup from './components/Scrollup/Scrollup'
 
 
 export default function App() {
@@ -23,9 +24,11 @@ export default function App() {
         <Qualification />
         {/* <Testimonials /> */}
         <Contact />
-        <Footer />
-
+        
       </main>
+
+      <Footer />
+        {/* <Scrollup /> */}
 
     </>
   )
