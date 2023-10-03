@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Danish-Portfolio/static/css/main.66761ddf.css",
+    "main.js": "/Danish-Portfolio/static/js/main.fb192f1a.js",
+    "static/media/profile1.JPG": "/Danish-Portfolio/static/media/profile1.bf1a20aa080bcae142da.JPG",
+    "static/media/about.jpg": "/Danish-Portfolio/static/media/about.17171102fbe39a5a017e.jpg",
+    "static/media/Danish-Resume.pdf": "/Danish-Portfolio/static/media/Danish-Resume.204ad3b9f1a2140bdb71.pdf",
+    "index.html": "/Danish-Portfolio/index.html",
+    "main.66761ddf.css.map": "/Danish-Portfolio/static/css/main.66761ddf.css.map",
+    "main.fb192f1a.js.map": "/Danish-Portfolio/static/js/main.fb192f1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66761ddf.css",
+    "static/js/main.fb192f1a.js"
+  ]
+}
